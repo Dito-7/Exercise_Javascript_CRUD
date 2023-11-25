@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "namaMahasiswa 1",
+      "pointTak": 60
+    },
+    {
+      "id": 2,
+      "title": "namaMahasiswa 2",
+      "pointTak": 50
+    },
+    {
+      "title": "namaMahasiswa 3 updated",
+      "pointTak": "100",
+      "id": 3
+    },
+    {
+      "title": "ditoganteng",
+      "pointTak": "60",
+      "id": 6
+    },
+    {
+      "title": "maba",
+      "pointTak": "5",
+      "id": 7
+    },
+    {
+      "title": "siyun ganteng ",
+      "pointTak": "80",
+      "id": 8
+    },
+    {
+      "title": "risma",
+      "pointTak": "60",
+      "id": 10
+    },
+    {
+      "title": "dito",
+      "pointTak": "45",
+      "id": 11
+    },
+    {
+      "title": "nasya sayang",
+      "pointTak": "10000000",
+      "id": 12
+    },
+    {
+      "title": "awan gamingk lucu",
+      "pointTak": "100000000000000000000000000000000",
+      "id": 13
+    }
+  ]
+}
